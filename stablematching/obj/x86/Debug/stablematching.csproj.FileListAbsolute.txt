@@ -1,0 +1,11 @@
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\bin\Debug\stablematching.exe
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\bin\Debug\stablematching.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\stablematching.Form1.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\stablematching.Popcreateinputfiles.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\stablematching.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\stablematching.exe
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\stablematching.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\stablematching\stablematching\obj\x86\Debug\stablematching.Mainform.resources
